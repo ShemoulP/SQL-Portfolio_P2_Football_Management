@@ -1,0 +1,14 @@
+Analyzing a Dataset with SQL:
+
+The objective is to help a football team’s management find patterns that can be used to make strategic decisions.
+
+Problem Statement: 
+In this challenge, we aim to help a football club management to make strategic decisions by analyzing sports dataset using SQL similar to the “Moneyball” strategy used in baseball. The dataset includes detailed information about players, teams and transfers.
+
+Objective:
+Leverage SQL queries to extract actionable insights from performance data to guide strategic decisions in player selection, team management, and financial planning.
+
+Dataset Overview:
+players: Player stats like goals, assists, salary, position
+teams: Team performance data and budget
+transfers: : Historical player transfers with associated fees
